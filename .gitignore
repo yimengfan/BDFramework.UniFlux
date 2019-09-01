@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/BDFramework.UniReact.sln
+/Library
+/Logs
+/Packages
+/Temp
+/Assembly-CSharp.csproj
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
